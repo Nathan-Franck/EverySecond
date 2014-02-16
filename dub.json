@@ -1,0 +1,11 @@
+{
+	"name": "e2nd",
+	"targetName": "EverySecond",
+	"targetType": "dynamicLibrary",
+	"description": "Every Second Engine for fast, iterative game development in D",
+	"copyright": "Copyright © 2014, Nathan Franck",
+	"authors": ["Nathan Franck"],
+	"dependencies": {
+		"derelict-glfw3":"~master"
+	}
+}
