@@ -1,0 +1,11 @@
+{
+	"name": "superslash",
+	"targetName": "SuperSlash",
+	"targetType": "dynamicLibrary",
+	"description": "SmashBros meets Mortal Kombat using D",
+	"copyright": "Copyright © 2014, Nathan Franck",
+	"authors": ["Nathan Franck"],
+	"dependencies": {
+		"derelict-glfw3":"~master"
+	}
+}
